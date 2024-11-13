@@ -1,0 +1,16 @@
+# ------------------------------------------------
+# Operating Systems
+# file:dsa001.txt
+# @JAPeTo
+# ------------------------------------------------
+# 1:FCFS, 2:SSTF, 3:SCAN, 4:CSCAN, 5:LOOK, 6:CLOOK
+1
+# Total cylinders
+200
+# Number of I/O requests
+9
+# Initial arm position
+96
+# Requests
+125,17,23,67,90,128,189,115,97
+
