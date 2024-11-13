@@ -1,4 +1,3 @@
-from heapq import *
 
 def fcfs(arm_position, lrequests, debug=False):
   """
@@ -18,5 +17,3 @@ def fcfs(arm_position, lrequests, debug=False):
   
   aveg=time / n
   return aveg
-
-# print(fcfs(96, [125,17,23,67,90,128,189,115,97]))

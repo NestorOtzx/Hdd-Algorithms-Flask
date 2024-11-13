@@ -19,7 +19,7 @@ def help():
       "endpoint":"/sched",
       "method": "POST",
       "payload":{
-        "algorithm": "1:FCFS, 2:SSTF, 3:SCAN, 4:CSCAN, 5:LOOK, 6:CLOOK",
+        "algorithm": "1:FCFS, 2:SSTF, 3:SCAN_ASC, 4:SCAN_DESC, 5:CSCAN_ASC, 6:CSCAN_DESC, 7:LOOK, 8:CLOOK",
         "tracks": "number of cylinders",
         "arm": "initial position",
         "requests":"list of tracks"
